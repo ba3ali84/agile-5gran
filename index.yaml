@@ -5,7 +5,7 @@ entries:
       category: apps
     apiVersion: v2
     appVersion: 3.2.6
-    created: "2022-07-05T12:13:31.882065676Z"
+    created: "2022-07-08T10:12:23.556863232Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -13,7 +13,7 @@ entries:
       - bitnami-common
       version: 1.x.x
     description: ueransim for 5G RAN simulation
-    digest: 3d73fbe39ead71e0652b95e858fecb573bc52e3418e04ae5dc1784325359670b
+    digest: 5ed4ea3995e8f9ca9e611d2bdb23b7736458537241217f6c0537717cf853f6e4
     home: https://github.com/aligungr/UERANSIM
     icon: https://github.com/aligungr/UERANSIM/raw/master/.github/logo.png
     keywords:
@@ -31,4 +31,4 @@ entries:
     urls:
     - https://ba3ali84.github.io/agile-5gran/agile-5gran-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-05T12:13:31.877976544Z"
+generated: "2022-07-08T10:12:23.555311357Z"
